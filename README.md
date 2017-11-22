@@ -73,4 +73,4 @@ For C programs :
 Credit also goes to :
 
 * Mohit Sehrawat for the youTube simulation videos.  
-* my class mate Vidhya for the Programs.
+* College mate Vidhya for help in Programs.
