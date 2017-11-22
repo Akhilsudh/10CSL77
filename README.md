@@ -57,8 +57,7 @@ For C programs :
     gcc -o file file.c
     ./file
 
-
-###LICENSE
+### LICENSE
 	MIT License
 
 	Copyright (c) 2017 Akhil Sudhakaran
