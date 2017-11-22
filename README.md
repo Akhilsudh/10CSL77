@@ -45,7 +45,7 @@
 
 12. [Write a yacc program that accepts a regular expression as input and produce its parse tree as output. ](https://raw.githubusercontent.com/Akhilsudh/10CSL77/master/12/12.c)
 
-### Compiling/Running the code
+### Commands for Compiling/Running the code/software :
 For Network Simulation in Fedora 8 :
 
 	cd /usr/local/nctuns/bin
