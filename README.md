@@ -43,7 +43,7 @@
 
 11. [Write a program for simple RSA algorithm to encrypt and decrypt the data. ](https://raw.githubusercontent.com/Akhilsudh/10CSL77/master/11/11.c)
 
-12. [Write a yacc program that accepts a regular expression as input and produce its parse tree as output. ](https://raw.githubusercontent.com/Akhilsudh/10CSL77/master/12/12.c)
+12. [Write a program for congestion control using leaky bucket algorithm. ](https://raw.githubusercontent.com/Akhilsudh/10CSL77/master/12/12.c)
 
 ### Commands for Compiling/Running the code/software :
 For Network Simulation in Fedora 8 :
